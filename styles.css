@@ -1,0 +1,45 @@
+
+header{
+    color: #21C6A3;
+    font-size: 29px;
+}
+hr{
+    color: #21C6A3;
+}
+a{
+    color: #21C6A3;
+    float:right;
+    padding-bottom: 10px  ;
+    font-size: 17px;
+}
+form{
+    margin: auto;
+
+
+    border:2px solid gray;
+    border-radius: 4px;
+
+    height:100%;
+    width: 30%;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+h2{
+    color: white;
+    background-color: gray;
+    font-size: 20px;
+}
+
+select {
+    background-color: #21C6A3;
+    box-sizing: border-box;
+    width: 100%;
+
+
+
+}
+
